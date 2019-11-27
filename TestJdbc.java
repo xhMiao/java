@@ -1,3 +1,5 @@
+package java;
+
 import java.sql.*;
 public class TestJdbc {
     // MySQL 8.0 以上版本 - JDBC 驱动名及数据库 URL
